@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7F2336EB-9834-A145-DEAB-D670995ED9B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ColorDetection.cs">
+    <Files>
+      <File FileName="Assets/ColorDetection.cs" Line="18" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
